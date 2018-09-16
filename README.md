@@ -22,13 +22,13 @@ can chose to reach out to the user via an emailing system.
 
 
 ## Technical 
-Front-end programming language: React Native 
-Back-end: Python and SQLITE3
-3D animations: Blender3D for  
-Search: Algolia
-Training data and ML algorithm: From https://github.com/AshwanthRamji/Depression-Sentiment-Analysis-with-Twitter-Data
-Digital EngineX
-FLASK 
+* 1.Front-end programming language: React Native 
+* 2.Back-end: Python and SQLITE3
+* 3.3D animations: Blender3D for  
+* 4.Search: Algolia
+* 5.Training data and ML algorithm: From https://github.com/AshwanthRamji/Depression-Sentiment-Analysis-with-Twitter-Data
+* 6.Digital EngineX
+* 7.FLASK 
 
 
 ## Further Development 
